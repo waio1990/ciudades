@@ -3,4 +3,4 @@ matplotlib
 seaborn
 pandas
 geopandas
-bokeh
+descartes
