@@ -1,2 +1,4 @@
-asfd
-asdf
+numpy
+matplotlib
+seaborn
+pandas
